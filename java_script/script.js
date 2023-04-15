@@ -9,4 +9,13 @@ console.log("neon");
  const sex="male";
  let age=32
  console.log(age)
+ let isAdmin=true;
+ console.log(isAdmin)
+ let isStaff=undefined
+ let isnull=null
+ console.log(isnull)
+ console.log(isStaff)
+ console.log(typeof isAdmin)
+ isAdmin="ali"
+ console.log(typeof isAdmin)
 
