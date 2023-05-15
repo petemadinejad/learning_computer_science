@@ -1,5 +1,0 @@
-venv/
-/Dockerfile
-/db.sqlite3
-/.gitignore
-/.dockerignore
