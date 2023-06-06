@@ -157,12 +157,12 @@
 // increase(number)
 // console.log(number)
 
-const circle= {
-   radius:1,
-   draw(){
-      console.log('draw')
-   }
-}
+// const circle= {
+//    radius:1,
+//    draw(){
+//       console.log('draw')
+//    }
+// }
 
 // for (let key in circle){
 //    console.log(circle[key])
@@ -181,12 +181,12 @@ const circle= {
 // console.log(x)
 // console.log(y)
 
-let circle_entries=Object.entries(circle)
-console.log(circle_entries)
+// let circle_entries=Object.entries(circle)
+// console.log(circle_entries)
 
-for (let entry of circle_entries){
-   console.log(entry)
-}
-if ('radiusdd' in circle){
-   console.log('yes')
-}
+// for (let entry of circle_entries){
+//    console.log(entry)
+// }
+// if ('radiusdd' in circle){
+//    console.log('yes')
+// }
