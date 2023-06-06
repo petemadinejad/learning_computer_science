@@ -92,16 +92,16 @@
 //    console.log(index)
 
 
-function createCircle(radius,x,y){
-   return { 
-      radius,
-      x,
-      y,
-      draw(){console.log("hellp obj")}
-   }
-}
+// function createCircle(radius,x,y){
+//    return { 
+//       radius,
+//       x,
+//       y,
+//       draw(){console.log("hellp obj")}
+//    }
+// }
 
-let obj1=createCircle(5,1,1)
+// let obj1=createCircle(5,1,1)
 // let obj2=createCircle(6,1,1)
 // let obj3=createCircle(7,1,1)
 // console.log(obj1)
@@ -109,18 +109,18 @@ let obj1=createCircle(5,1,1)
 // console.log(obj3)
 // console.log(obj1.draw())
 
-function SampleCode(radius){
-   this.radius=radius
-   this.draw=function(){
-      console.log('draw')
-   }
-}
+// function SampleCode(radius){
+//    this.radius=radius
+//    this.draw=function(){
+//       console.log('draw')
+//    }
+// }
 
-const sample=new SampleCode(3)
-console.log(sample)
+// const sample=new SampleCode(3)
+// console.log(sample)
 
-obj5=SampleCode.call({},3)
-console.log(obj5)
+// obj5=SampleCode.call({},3)
+// console.log(obj5)
 
 
 
@@ -149,3 +149,44 @@ console.log(obj5)
 
 // let x="tets string"
 // console.log(x.constructor)
+
+// number={"value":20}
+// function increase(number){
+//    number["value"]++
+// }
+// increase(number)
+// console.log(number)
+
+const circle= {
+   radius:1,
+   draw(){
+      console.log('draw')
+   }
+}
+
+// for (let key in circle){
+//    console.log(circle[key])
+// }
+
+// let circle_keys=Object.keys(circle)
+
+// console.log(circle_keys)
+
+// for (let key of circle_keys){
+//    console.log(circle[key])
+// }
+
+// const x={value:1}
+// const y=new Object({value:1})
+// console.log(x)
+// console.log(y)
+
+let circle_entries=Object.entries(circle)
+console.log(circle_entries)
+
+for (let entry of circle_entries){
+   console.log(entry)
+}
+if ('radiusdd' in circle){
+   console.log('yes')
+}
