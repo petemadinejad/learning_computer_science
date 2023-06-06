@@ -1,0 +1,109 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="87">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="tdigest" />
+            <item index="2" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="3" class="java.lang.String" itemvalue="accumulation-tree" />
+            <item index="4" class="java.lang.String" itemvalue="pybrake" />
+            <item index="5" class="java.lang.String" itemvalue="setproctitle" />
+            <item index="6" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="7" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="8" class="java.lang.String" itemvalue="django-seed" />
+            <item index="9" class="java.lang.String" itemvalue="kombu" />
+            <item index="10" class="java.lang.String" itemvalue="pycparser" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="python-magic" />
+            <item index="13" class="java.lang.String" itemvalue="pywebpush" />
+            <item index="14" class="java.lang.String" itemvalue="appdirs" />
+            <item index="15" class="java.lang.String" itemvalue="Faker" />
+            <item index="16" class="java.lang.String" itemvalue="mccabe" />
+            <item index="17" class="java.lang.String" itemvalue="certifi" />
+            <item index="18" class="java.lang.String" itemvalue="lxml" />
+            <item index="19" class="java.lang.String" itemvalue="django-model-utils" />
+            <item index="20" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="21" class="java.lang.String" itemvalue="vine" />
+            <item index="22" class="java.lang.String" itemvalue="asn1ate" />
+            <item index="23" class="java.lang.String" itemvalue="pew" />
+            <item index="24" class="java.lang.String" itemvalue="djangorestframework-jwt" />
+            <item index="25" class="java.lang.String" itemvalue="cryptography" />
+            <item index="26" class="java.lang.String" itemvalue="pydub" />
+            <item index="27" class="java.lang.String" itemvalue="Khayyam" />
+            <item index="28" class="java.lang.String" itemvalue="pyDes" />
+            <item index="29" class="java.lang.String" itemvalue="zeep" />
+            <item index="30" class="java.lang.String" itemvalue="attrs" />
+            <item index="31" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="32" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="33" class="java.lang.String" itemvalue="http-ece" />
+            <item index="34" class="java.lang.String" itemvalue="idna" />
+            <item index="35" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="36" class="java.lang.String" itemvalue="isodate" />
+            <item index="37" class="java.lang.String" itemvalue="jsonfield" />
+            <item index="38" class="java.lang.String" itemvalue="django-push-notifications" />
+            <item index="39" class="java.lang.String" itemvalue="cffi" />
+            <item index="40" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="41" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="42" class="java.lang.String" itemvalue="requests" />
+            <item index="43" class="java.lang.String" itemvalue="flake8" />
+            <item index="44" class="java.lang.String" itemvalue="websocket-client" />
+            <item index="45" class="java.lang.String" itemvalue="jdcal" />
+            <item index="46" class="java.lang.String" itemvalue="celery" />
+            <item index="47" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="48" class="java.lang.String" itemvalue="cached-property" />
+            <item index="49" class="java.lang.String" itemvalue="jdatetime" />
+            <item index="50" class="java.lang.String" itemvalue="urllib3" />
+            <item index="51" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="52" class="java.lang.String" itemvalue="billiard" />
+            <item index="53" class="java.lang.String" itemvalue="django-wkhtmltopdf" />
+            <item index="54" class="java.lang.String" itemvalue="six" />
+            <item index="55" class="java.lang.String" itemvalue="pyflakes" />
+            <item index="56" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="57" class="java.lang.String" itemvalue="text-unidecode" />
+            <item index="58" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="59" class="java.lang.String" itemvalue="pipenv" />
+            <item index="60" class="java.lang.String" itemvalue="chardet" />
+            <item index="61" class="java.lang.String" itemvalue="py-vapid" />
+            <item index="62" class="java.lang.String" itemvalue="django-mysql" />
+            <item index="63" class="java.lang.String" itemvalue="Django" />
+            <item index="64" class="java.lang.String" itemvalue="graphqlclient" />
+            <item index="65" class="java.lang.String" itemvalue="olefile" />
+            <item index="66" class="java.lang.String" itemvalue="pytz" />
+            <item index="67" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="68" class="java.lang.String" itemvalue="Pillow" />
+            <item index="69" class="java.lang.String" itemvalue="requests-toolbelt" />
+            <item index="70" class="java.lang.String" itemvalue="amqp" />
+            <item index="71" class="java.lang.String" itemvalue="asgiref" />
+            <item index="72" class="java.lang.String" itemvalue="click" />
+            <item index="73" class="java.lang.String" itemvalue="click-didyoumean" />
+            <item index="74" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="75" class="java.lang.String" itemvalue="requests-file" />
+            <item index="76" class="java.lang.String" itemvalue="django-redis" />
+            <item index="77" class="java.lang.String" itemvalue="django-health-check" />
+            <item index="78" class="java.lang.String" itemvalue="wkhtmltopdf" />
+            <item index="79" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="80" class="java.lang.String" itemvalue="pika" />
+            <item index="81" class="java.lang.String" itemvalue="django-admin-rangefilter" />
+            <item index="82" class="java.lang.String" itemvalue="pyudorandom" />
+            <item index="83" class="java.lang.String" itemvalue="xlrd" />
+            <item index="84" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="85" class="java.lang.String" itemvalue="click-repl" />
+            <item index="86" class="java.lang.String" itemvalue="click-plugins" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cdr.models.CdrReportsMonth.objects" />
+          <option value="cdr.models.CdrsReportsDay.objects" />
+          <option value="cdr.models.Reports.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
