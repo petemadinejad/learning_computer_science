@@ -190,3 +190,23 @@
 // if ('radiusdd' in circle){
 //    console.log('yes')
 // }
+// let squres={
+//     a:1,
+//     b:2,
+//     c:3,
+//     d:4
+
+// }
+
+// const another_s={}
+// for (let key in squres){
+//     another_s[key]=squres[key]
+// }
+
+// const another_s=Object.assign({e:5},squres)
+
+// const another_s ={e:5,...squres,f:6}
+
+// console.log(another_s)
+
+
