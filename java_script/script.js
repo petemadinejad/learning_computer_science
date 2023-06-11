@@ -209,4 +209,11 @@
 
 // console.log(another_s)
 
+// console.log(Math.PI)
+// console.log(Math.random())
+
+// function get_random_arb(min,max){
+//     return Math.floor(Math.random() * (max-min) + min)
+// }
+//  console.log(get_random_arb(10,50))
 
