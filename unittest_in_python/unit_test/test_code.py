@@ -9,7 +9,7 @@ class ExampleTest(unittest.TestCase):
         self.assertEqual(code.add(-1, 4), 3)
 
     def test_subtract(self):
-        self.assertEqual(code.subtract(5, 1), 4)
+        self.assertEqual(code.subtract(5, 1), 2)
 
     def test_multiply(self):
         self.assertEqual(code.multiply(6, 5), 30)
