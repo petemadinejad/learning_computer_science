@@ -3,7 +3,7 @@ import unittest
 from unittest_in_python.fixtures.code import Person
 
 
-class PersonTest(unittest.TestCase):
+class TestPerson(unittest.TestCase):
     def setUp(self):
         self.p1 = Person('amir', 'big')
         self.p2 = Person('joen', 'doe')

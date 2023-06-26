@@ -217,3 +217,10 @@
 // }
 //  console.log(get_random_arb(10,50))
 
+
+
+// string_methods
+//notation for example \n
+//how to use backtick and usage
+let name="parisa"
+console.log(`hi ${name} etemadinejad`)
